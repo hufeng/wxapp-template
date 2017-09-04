@@ -1,0 +1,12 @@
+{
+  "name": "wxapp-template",
+  "version": "1.0.0",
+  "description": "a simple wxapp template",
+  "main": "index.js",
+  "repository": "https://github.com/hufeng/wxapp-template.git",
+  "author": "hufeng <hufeng@qianmi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^8.0.26"
+  }
+}
